@@ -1,3 +1,4 @@
+package Race;
 public class Horse implements Runnable {
 	// class variables
 	private String name;

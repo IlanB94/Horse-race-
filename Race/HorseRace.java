@@ -1,3 +1,4 @@
+package Race;
 import java.util.Scanner;
 
 public class HorseRace {

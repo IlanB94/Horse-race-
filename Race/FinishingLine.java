@@ -1,3 +1,4 @@
+package Race;
 public class FinishingLine {
     //Use counter to count in which place each horse end the race
         int counter = 1;
